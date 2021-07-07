@@ -42,7 +42,6 @@ RUN_STRINGS = (
     "Que las probabilidades estén siempre a tu favor",
     "Últimas palabras famosas.",
     "Y desaparecieron para siempre, para nunca más ser vistos",
-    "\" ¡Oh, mírame! ¡Soy tan genial que puedo huir de un bot! \ "- esta persona",
     "Sí, sí, solo tócame, toca este comando /kickme",
     "Toma, toma este anillo y dirígete a Mordor mientras estás en eso",
     "Cuenta la leyenda, todavía están funcionando ...",
